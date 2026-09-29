@@ -27,7 +27,7 @@
     "hireable": true,
     "bio": "Fullstack Developer · Java / Spring Boot · C# / .NET",
     "twitter_username": null,
-    "public_repos": 69,
+    "public_repos": 70,
     "public_gists": 0,
     "followers": 18,
     "following": 21,
@@ -104,7 +104,7 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/vitorhugo-dotnet/deployments",
       "created_at": "2021-02-12T19:28:48Z",
       "updated_at": "2026-08-19T00:22:12Z",
-      "pushed_at": "2026-09-28T02:59:42Z",
+      "pushed_at": "2026-09-29T03:39:33Z",
       "git_url": "git://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/vitorhugo-dotnet.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
@@ -216,14 +216,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/deployments",
       "created_at": "2026-08-23T17:18:59Z",
-      "updated_at": "2026-09-27T16:46:13Z",
-      "pushed_at": "2026-09-27T16:50:20Z",
+      "updated_at": "2026-09-29T01:56:02Z",
+      "pushed_at": "2026-09-29T02:16:48Z",
       "git_url": "git://github.com/vitorhugo-dotnet/dotnet_FrameRelay.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/dotnet_FrameRelay.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/dotnet_FrameRelay.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/dotnet_FrameRelay",
       "homepage": "",
-      "size": 1003,
+      "size": 1027,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "C#",
@@ -270,6 +270,252 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 3,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1393944457,
+      "node_id": "R_kgDOUxXniQ",
+      "name": "MediaRelay",
+      "full_name": "vitorhugo-dotnet/MediaRelay",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/MediaRelay",
+      "description": "Self-hosted media upload relay with Discord publishing",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay/deployments",
+      "created_at": "2026-09-28T23:09:04Z",
+      "updated_at": "2026-09-29T02:00:50Z",
+      "pushed_at": "2026-09-29T02:00:47Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/MediaRelay.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/MediaRelay.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/MediaRelay.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/MediaRelay",
+      "homepage": "",
+      "size": 116,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "C#",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "discord",
+        "docker",
+        "dotnet",
+        "mediarelay",
+        "minio",
+        "self-hosted"
+      ],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1217570049,
+      "node_id": "R_kgDOSJKlAQ",
+      "name": "almighty-blocker-unstoppable",
+      "full_name": "vitorhugo-dotnet/almighty-blocker-unstoppable",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/almighty-blocker-unstoppable",
+      "description": "Almighty Blocker: The unstoppable hosts file enforcer. Built in Go, it locks down your redirect rules using native OS services (systemd/SCM) and a robust primary/watchdog heartbeat system to prevent bypasses.",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/almighty-blocker-unstoppable/deployments",
+      "created_at": "2026-04-22T02:38:22Z",
+      "updated_at": "2026-09-29T01:30:43Z",
+      "pushed_at": "2026-09-29T01:30:39Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/almighty-blocker-unstoppable.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/almighty-blocker-unstoppable.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/almighty-blocker-unstoppable.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/almighty-blocker-unstoppable",
+      "homepage": "",
+      "size": 30298,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Go",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "adblock",
+        "cross-platform",
+        "cybersecurity",
+        "dns-filter",
+        "failover",
+        "go",
+        "golang",
+        "hosts-file",
+        "network-security",
+        "systemd",
+        "watchdog",
+        "windows-service"
+      ],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -349,13 +595,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-08-18T03:48:49Z",
-      "pushed_at": "2026-09-27T07:12:25Z",
+      "pushed_at": "2026-09-28T07:46:40Z",
       "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
       "homepage": "http://hugodotnet.dev/",
-      "size": 885,
+      "size": 897,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -1786,241 +2032,6 @@
         "triage": false,
         "pull": false
       }
-    },
-    {
-      "id": 1367579622,
-      "node_id": "R_kgDOUYOb5g",
-      "name": "springboot-microservice-resilience",
-      "full_name": "vitorhugo-dotnet/springboot-microservice-resilience",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/springboot-microservice-resilience",
-      "description": "Demo de microsserviços Spring Boot com resiliência distribuída usando Resilience4j.",
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/springboot-microservice-resilience/deployments",
-      "created_at": "2026-09-12T18:23:11Z",
-      "updated_at": "2026-09-12T18:34:11Z",
-      "pushed_at": "2026-09-12T18:34:08Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/springboot-microservice-resilience.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/springboot-microservice-resilience.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/springboot-microservice-resilience.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/springboot-microservice-resilience",
-      "homepage": "",
-      "size": 71,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Java",
-      "has_issues": false,
-      "has_projects": false,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": false,
-      "pull_request_creation_policy": "all",
-      "topics": [
-        "bulkhead",
-        "circuit-breaker",
-        "docker",
-        "java",
-        "microservices",
-        "resilience4j",
-        "retry",
-        "spring-boot"
-      ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1209410451,
-      "node_id": "R_kgDOSBYjkw",
-      "name": "mind-weaver",
-      "full_name": "vitorhugo-dotnet/mind-weaver",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/mind-weaver",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/mind-weaver/deployments",
-      "created_at": "2026-04-13T11:59:25Z",
-      "updated_at": "2026-08-18T01:05:03Z",
-      "pushed_at": "2026-09-10T15:02:07Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/mind-weaver.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/mind-weaver.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/mind-weaver.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/mind-weaver",
-      "homepage": "https://vitorhugo-java.github.io/mind-weaver/",
-      "size": 650,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 1,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 1,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
     }
   ],
   "pinnedRepos": [
@@ -2488,13 +2499,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
       "updated_at": "2026-09-18T01:33:20Z",
-      "pushed_at": "2026-09-28T02:09:08Z",
+      "pushed_at": "2026-09-29T02:05:06Z",
       "git_url": "git://github.com/vitorhugo-dotnet/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker",
       "homepage": "https://applywell.hugodotnet.dev/",
-      "size": 1920,
+      "size": 2003,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -2508,7 +2519,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 4,
+      "open_issues_count": 5,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -2529,7 +2540,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 4,
+      "open_issues": 5,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2546,8 +2557,8 @@
   ],
   "events": [
     {
-      "id": "22339116938",
-      "type": "PushEvent",
+      "id": "15970561601",
+      "type": "PullRequestEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2562,18 +2573,38 @@
         "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
       },
       "payload": {
-        "repository_id": 1344024708,
-        "push_id": 44732364729,
-        "ref": "refs/heads/feature/issue-36-tray-startup",
-        "head": "e2b4c62a4f3a9443efdc454a2bb78e18e036e765",
-        "before": "13cc7b261d6f1a7392373985a56d71ed4913671a"
+        "action": "opened",
+        "number": 43,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/43",
+          "id": 4671657455,
+          "number": 43,
+          "head": {
+            "ref": "codex/issue-22-av1",
+            "sha": "4728291f2cfc20d99b1a0080c90e8bdfffbe6c09",
+            "repo": {
+              "id": 1344024708,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
+              "name": "dotnet_FrameRelay"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "0d95642a269ab5aaee4bf6ac8d7cc72246fcd5b0",
+            "repo": {
+              "id": 1344024708,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
+              "name": "dotnet_FrameRelay"
+            }
+          }
+        }
       },
       "public": true,
-      "created_at": "2026-09-27T16:31:35Z"
+      "created_at": "2026-09-29T02:16:59Z"
     },
     {
-      "id": "22336191707",
-      "type": "DeleteEvent",
+      "id": "22439110622",
+      "type": "CreateEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2588,16 +2619,18 @@
         "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
       },
       "payload": {
-        "ref": "codex/issue-35-release-updater",
+        "ref": "codex/issue-22-av1",
         "ref_type": "branch",
-        "full_ref": "refs/heads/codex/issue-35-release-updater",
+        "full_ref": "refs/heads/codex/issue-22-av1",
+        "master_branch": "main",
+        "description": "Windows screen and system-audio sharing over WebRTC, built with Avalonia, Windows Graphics Capture, FFmpeg/H.264 and RelayControl.",
         "pusher_type": "user"
       },
       "public": true,
-      "created_at": "2026-09-27T15:39:36Z"
+      "created_at": "2026-09-29T02:16:48Z"
     },
     {
-      "id": "22330147034",
+      "id": "22438171690",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2608,73 +2641,47 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+        "id": 1393944457,
+        "name": "vitorhugo-dotnet/MediaRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay"
       },
       "payload": {
-        "repository_id": 1344024708,
-        "push_id": 44727702721,
-        "ref": "refs/heads/codex/framerelay-implementation",
-        "head": "3904fc5f9f268f353a64df45e3865a7e43b941f4",
-        "before": "248709a4629293ff28d8d761b0fa5604effdbd00"
-      },
-      "public": true,
-      "created_at": "2026-09-27T15:14:38Z"
-    },
-    {
-      "id": "22314251657",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
-      },
-      "payload": {
-        "ref": "feature/issue-36-tray-startup",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/feature/issue-36-tray-startup",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-09-27T16:46:13Z"
-    },
-    {
-      "id": "22314247990",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
-      },
-      "payload": {
-        "repository_id": 1344024708,
-        "push_id": 44733252913,
+        "repository_id": 1393944457,
+        "push_id": 44872376182,
         "ref": "refs/heads/main",
-        "head": "bc746d48937e2588fc40f14996d43df56067eb87",
-        "before": "88616c1395975d1948469eac233d819131aa128c"
+        "head": "bf385c9b749e8528f9f5c769dce059b17379ecbc",
+        "before": "a3c18bf1321e5019e6edaba275b3079d57bc23ef"
       },
       "public": true,
-      "created_at": "2026-09-27T16:46:09Z"
+      "created_at": "2026-09-29T02:00:47Z"
     },
     {
-      "id": "15861751849",
+      "id": "22437898399",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "ref": "codex/fix-process-loopback",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/codex/fix-process-loopback",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-29T01:56:01Z"
+    },
+    {
+      "id": "15969617658",
       "type": "PullRequestEvent",
       "actor": {
         "id": 65777252,
@@ -2691,14 +2698,14 @@
       },
       "payload": {
         "action": "merged",
-        "number": 41,
+        "number": 42,
         "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/41",
-          "id": 4654967180,
-          "number": 41,
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/42",
+          "id": 4671469038,
+          "number": 42,
           "head": {
-            "ref": "feature/issue-36-tray-startup",
-            "sha": "b1d982cbb75a93c99909d601f7f8b0471ccd7696",
+            "ref": "codex/fix-process-loopback",
+            "sha": "7edc1909c619bbfe6429bd663f2a298fca65892b",
             "repo": {
               "id": 1344024708,
               "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
@@ -2707,7 +2714,7 @@
           },
           "base": {
             "ref": "main",
-            "sha": "88616c1395975d1948469eac233d819131aa128c",
+            "sha": "bc746d48937e2588fc40f14996d43df56067eb87",
             "repo": {
               "id": 1344024708,
               "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
@@ -2717,10 +2724,109 @@
         }
       },
       "public": true,
-      "created_at": "2026-09-27T16:46:08Z"
+      "created_at": "2026-09-29T01:55:56Z"
     },
     {
-      "id": "15861751598",
+      "id": "22437895782",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "repository_id": 1344024708,
+        "push_id": 44872087974,
+        "ref": "refs/heads/main",
+        "head": "0d95642a269ab5aaee4bf6ac8d7cc72246fcd5b0",
+        "before": "bc746d48937e2588fc40f14996d43df56067eb87"
+      },
+      "public": true,
+      "created_at": "2026-09-29T01:55:57Z"
+    },
+    {
+      "id": "15969305873",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "action": "opened",
+        "number": 42,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/42",
+          "id": 4671469038,
+          "number": 42,
+          "head": {
+            "ref": "codex/fix-process-loopback",
+            "sha": "7edc1909c619bbfe6429bd663f2a298fca65892b",
+            "repo": {
+              "id": 1344024708,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
+              "name": "dotnet_FrameRelay"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "bc746d48937e2588fc40f14996d43df56067eb87",
+            "repo": {
+              "id": 1344024708,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
+              "name": "dotnet_FrameRelay"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-09-29T01:49:21Z"
+    },
+    {
+      "id": "22437504037",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "ref": "codex/fix-process-loopback",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/codex/fix-process-loopback",
+        "master_branch": "main",
+        "description": "Windows screen and system-audio sharing over WebRTC, built with Avalonia, Windows Graphics Capture, FFmpeg/H.264 and RelayControl.",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-29T01:49:13Z"
+    },
+    {
+      "id": "15968393706",
       "type": "IssuesEvent",
       "actor": {
         "id": 65777252,
@@ -2736,18 +2842,18 @@
         "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
       },
       "payload": {
-        "action": "closed",
+        "action": "assigned",
         "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/36",
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/22",
           "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/36/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/36/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/36/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/dotnet_FrameRelay/issues/36",
-          "id": 5576618937,
-          "node_id": "I_kwDOUBwwhM8AAAABTGRzuQ",
-          "number": 36,
-          "title": "Add system tray support and start FrameRelay when the user logs in",
+          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/22/labels{/name}",
+          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/22/comments",
+          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/22/events",
+          "html_url": "https://github.com/vitorhugo-dotnet/dotnet_FrameRelay/issues/22",
+          "id": 5558616074,
+          "node_id": "I_kwDOUBwwhM8AAAABS1HACg",
+          "number": 22,
+          "title": "Add optional AV1 codec negotiation when both peers support it",
           "user": {
             "login": "vitorhugo-dotnet",
             "id": 65777252,
@@ -2769,8 +2875,20 @@
             "user_view_type": "public",
             "site_admin": false
           },
-          "labels": [],
-          "state": "closed",
+          "labels": [
+            {
+              "id": 12335848776,
+              "node_id": "LA_kwDOUBwwhM8AAAAC30YdSA",
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/labels/Future",
+              "name": "Future",
+              "color": "aaaaaa",
+              "default": false,
+              "description": null,
+              "archived_at": null,
+              "archived_by": null
+            }
+          ],
+          "state": "open",
           "locked": false,
           "assignees": [
             {
@@ -2797,253 +2915,9 @@
           ],
           "milestone": null,
           "comments": 0,
-          "created_at": "2026-09-25T01:06:10Z",
-          "updated_at": "2026-09-27T16:46:09Z",
-          "closed_at": "2026-09-27T16:46:09Z",
-          "assignee": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 1,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Goal\n\nImplement Windows system-tray behavior and optional start-at-login using the settings that are already mocked in the FrameRelay Settings screen.\n\n## Current state\n\n`src/SonicDesktopRelay.App/Views/SettingsView.axaml` already has a disabled **General** card containing:\n\n- `Start on system startup`\n- `Minimize to tray`\n\nDo not add duplicate settings. Make those existing options functional and enable only the implemented controls/card portions as appropriate.\n\nAvalonia already provides native `TrayIcon` / `NativeMenu` support, so use the framework implementation rather than inventing a Win32 tray-icon wrapper unless a concrete limitation is found.\n\n## Requirements\n\n### System tray\n\nAdd a FrameRelay tray icon that remains available while the app is running.\n\nMinimum tray menu:\n\n- **Open FrameRelay**\n- **Settings**\n- separator\n- **Exit**\n\nExpected behavior:\n\n- clicking/opening from the tray restores and focuses the main window;\n- `Settings` restores the app and navigates to Settings;\n- `Exit` performs a real application shutdown and disposes runtime resources cleanly;\n- prevent accidental duplicate tray icons;\n- use the FrameRelay application icon/ICO resource.\n\n### Minimize to tray\n\nWire the existing `Minimize to tray` setting.\n\nWhen enabled:\n\n- minimizing/closing the main window should keep the process alive in the tray instead of terminating it;\n- hide/remove the normal taskbar window while it is in tray mode;\n- restoring from the tray should return the same running application/session state.\n\nWhen disabled:\n\n- retain normal desktop-window behavior.\n\nMake close-vs-exit semantics explicit so the user can always fully terminate the process from the tray.\n\n### Start on user login\n\nWire the existing `Start on system startup` setting.\n\nThis application is currently Windows-only, so implement a **per-user** login startup mechanism that does not require administrator rights.\n\nRequirements:\n\n- enabling the setting registers FrameRelay to start when the current Windows user logs in;\n- disabling it removes that registration;\n- registration points to the installed/current executable safely, including quoted paths;\n- avoid duplicate startup entries;\n- upgrades/reinstalls must not leave stale startup registrations;\n- startup registration failures must be surfaced/logged instead of silently ignored.\n\nFor an unpackaged desktop app, prefer the simplest supported Windows mechanism suitable for per-user startup (for example the current-user Run registration) rather than adding a background Windows Service or scheduled task without a concrete need.\n\n### Combined behavior\n\nRespect the two settings independently:\n\n- Start on startup ON + Minimize to tray ON -> launch at login directly into tray/background without stealing focus.\n- Start on startup ON + Minimize to tray OFF -> launch normally at login.\n- Start on startup OFF -> no login auto-start registration.\n\nUse an explicit startup argument such as `--minimized` / `--startup` if needed to distinguish a login launch from a normal user launch.\n\n## Persistence\n\nPersist these settings in the existing application configuration model/location rather than introducing scattered registry-backed application settings.\n\nThe Windows startup registration itself can use the registry, but the user's preference should remain part of FrameRelay's own settings model.\n\n## Lifecycle / single instance\n\nEnsure login startup does not accidentally create a second FrameRelay process if the application is already running. If a single-instance mechanism does not yet exist, keep that concern narrowly scoped and implement only what is necessary to prevent obvious duplicate startup/tray instances.\n\n## Tests\n\nAdd tests for:\n\n- settings persistence;\n- enabling/disabling startup registration;\n- quoting executable paths containing spaces;\n- idempotent startup registration;\n- startup launch with tray enabled;\n- startup launch with tray disabled;\n- minimize/close to tray behavior;\n- restore from tray;\n- explicit Exit really terminates;\n- no duplicate tray icon/registration after repeated toggles.\n\n## Out of scope\n\n- Windows Service.\n- Background updater implementation.\n- Linux/macOS tray/autostart support.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/36/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/36/timeline",
-          "performed_via_github_app": {
-            "id": 1144995,
-            "client_id": "Iv23liVemv8A9if9v0F2",
-            "slug": "chatgpt-codex-connector",
-            "node_id": "A_kwHOAOQ6Gs4AEXij",
-            "owner": {
-              "login": "openai",
-              "id": 14957082,
-              "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/openai",
-              "html_url": "https://github.com/openai",
-              "followers_url": "https://api.github.com/users/openai/followers",
-              "following_url": "https://api.github.com/users/openai/following{/other_user}",
-              "gists_url": "https://api.github.com/users/openai/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/openai/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/openai/subscriptions",
-              "organizations_url": "https://api.github.com/users/openai/orgs",
-              "repos_url": "https://api.github.com/users/openai/repos",
-              "events_url": "https://api.github.com/users/openai/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/openai/received_events",
-              "type": "Organization",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "name": "ChatGPT Codex Connector",
-            "description": "Bring ChatGPT and Codex to your GitHub repositories.",
-            "external_url": "https://www.chatgpt.com",
-            "html_url": "https://github.com/apps/chatgpt-codex-connector",
-            "created_at": "2025-02-14T01:37:05Z",
-            "updated_at": "2026-09-23T18:52:59Z",
-            "permissions": {
-              "actions": "write",
-              "checks": "read",
-              "contents": "write",
-              "emails": "read",
-              "issues": "write",
-              "metadata": "read",
-              "pull_requests": "write",
-              "statuses": "read",
-              "workflows": "write"
-            },
-            "events": [
-              "check_run",
-              "check_suite",
-              "commit_comment",
-              "issues",
-              "issue_comment",
-              "pull_request",
-              "pull_request_review",
-              "pull_request_review_comment",
-              "pull_request_review_thread",
-              "repository",
-              "status",
-              "sub_issues"
-            ]
-          },
-          "state_reason": "completed",
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-27T16:46:09Z"
-    },
-    {
-      "id": "22314227466",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "chore/gemini-thinking-options",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/chore/gemini-thinking-options",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-09-27T16:45:43Z"
-    },
-    {
-      "id": "22314203785",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 44733206439,
-        "ref": "refs/heads/main",
-        "head": "31537e715f3bbdbadfcad1d4cbcf15b0b509302e",
-        "before": "cc485649e3b87f7e611142f67896edd1866bee60"
-      },
-      "public": true,
-      "created_at": "2026-09-27T16:45:25Z"
-    },
-    {
-      "id": "15861726779",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "closed",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83",
-          "id": 5453999570,
-          "node_id": "I_kwDOSBgdQc8AAAABRRVt0g",
-          "number": 83,
-          "title": "chore(deps): migrate to Spring Boot 4.1.x / Spring AI 2.0 and refresh backend dependencies",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-dotnet",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-dotnet",
-              "html_url": "https://github.com/vitorhugo-dotnet",
-              "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-14T20:01:44Z",
-          "updated_at": "2026-09-27T16:45:25Z",
-          "closed_at": "2026-09-27T16:45:25Z",
+          "created_at": "2026-09-23T19:44:47Z",
+          "updated_at": "2026-09-29T01:28:54Z",
+          "closed_at": null,
           "assignee": {
             "login": "vitorhugo-dotnet",
             "id": 65777252,
@@ -3077,9 +2951,9 @@
             "blocking": 0,
             "total_blocking": 0
           },
-          "body": "## Summary\n\nMigrate the backend from the current **Spring Boot 3.5.0** baseline to the current stable **Spring Boot 4.x** line and refresh the rest of the backend dependency set at the same time.\n\nPrimary targets at the time this issue is created:\n\n- Spring Boot: `3.5.0` → `4.1.1`\n- Spring Framework: managed by Boot 4.1.x / Spring Framework 7.x\n- Spring AI BOM: `1.1.7` → `2.0.1`\n- Spring Security: managed by Boot 4.1.x / Spring Security 7.1.x\n- springdoc-openapi: `2.8.9` → `3.1.x` (latest stable compatible with Boot 4.1.x)\n- Resilience4j: `resilience4j-spring-boot3` → `resilience4j-spring-boot4`, using the latest stable compatible version\n\nDo not target Spring Boot 4.2 milestones/RCs in this issue. The goal is a stable production upgrade, not volunteering the project as a release-train crash dummy.\n\n---\n\n## Motivation\n\nThe project is currently on Spring Boot `3.5.0` and already contains several dependencies that have a new major generation specifically aligned with Spring Boot 4 / Spring Framework 7.\n\nThis is not only a version bump. Spring Boot 4 introduces dependency, starter, package, JSON/Jackson, Security, testing, and auto-configuration changes that need to be migrated deliberately.\n\nSpring AI 2.0 is also built specifically for Spring Boot 4.x and includes breaking changes in MCP, Jackson 3 support, tool APIs, transport organization, and related configuration.\n\nThe goal is to move the backend to the current supported ecosystem while reducing unnecessary explicit version overrides and keeping dependency ownership with the Spring Boot / Spring AI BOMs wherever possible.\n\n---\n\n## Current relevant dependency baseline\n\nFrom the current `pom.xml`:\n\n| Dependency | Current |\n| --- | --- |\n| Spring Boot parent | `3.5.0` |\n| Java | `21` |\n| Spring AI BOM | `1.1.7` |\n| Spring Authorization Server | `1.5.8` |\n| springdoc-openapi | `2.8.9` |\n| Resilience4j Spring Boot | `resilience4j-spring-boot3:2.2.0` |\n| JJWT | `0.12.5` |\n| Testcontainers | `1.19.8` |\n| Rest Assured | `5.4.0` |\n| Yubico WebAuthn | `2.9.0` |\n| logstash-logback-encoder | `7.4` |\n| datafaker | `2.3.1` |\n| jsoup | `1.23.1` |\n| jtokkit | `1.1.0` |\n| Google Auth Library | `1.25.0` |\n| PDFBox | `3.0.4` |\n| Apache POI | `5.4.0` |\n\nThe Google Drive/Docs generated SDK versions are also explicitly pinned and must be reviewed.\n\n---\n\n# Migration plan\n\n## 1. Prepare the 3.5.x baseline first\n\nBefore moving to Boot 4, first move from `3.5.0` to the latest stable `3.5.x` available at implementation time and resolve any deprecations/warnings that are relevant to the 4.x migration.\n\nThis follows the official Spring Boot 4 migration recommendation and reduces the number of unrelated changes being debugged simultaneously.\n\nThis may be done as an intermediate commit inside the same PR if keeping it isolated makes review easier.\n\n---\n\n## 2. Upgrade to Spring Boot 4.1.x\n\nTarget the latest stable Spring Boot `4.1.x` release available when the implementation starts. At the time of this issue, that is `4.1.1`.\n\nKeep Java `21` unless a concrete project requirement justifies changing it. Do not upgrade Java merely because a newer JDK exists.\n\nReview the Boot 4 migration guide and adapt the project rather than relying permanently on compatibility/classic starters.\n\n### Starter/module migration\n\nReview all Boot starters because Boot 4 modularized and renamed a number of them.\n\nAt minimum, verify/adapt:\n\n- `spring-boot-starter-web` → Boot 4 Web MVC starter (`spring-boot-starter-webmvc`)\n- OAuth2 client starter → Boot 4 Security OAuth2 client starter\n- OAuth2 resource-server starter → Boot 4 Security OAuth2 resource-server starter\n- AOP/AspectJ starter/module naming\n- Flyway integration and whether the Boot 4 Flyway starter is preferable to managing `flyway-core` + `flyway-mysql` directly\n- test starters introduced/changed by Boot 4 modularization\n\nDo not add `spring-boot-starter-classic` as the final solution. It may only be used temporarily as a migration aid if required.\n\n---\n\n## 3. Migrate Jackson 2 assumptions to Jackson 3\n\nSpring Boot 4 uses **Jackson 3** by default.\n\nReview the entire codebase for:\n\n- `ObjectMapper` / `JsonMapper` usage\n- `com.fasterxml.jackson.*` imports that moved in Jackson 3\n- custom serializers/deserializers\n- Spring Jackson customizers\n- JSON configuration properties\n- tests that assert serialization behavior\n- third-party libraries still requiring Jackson 2\n\nPrefer a real Jackson 3 migration.\n\nDo not keep the deprecated Jackson 2 compatibility module as the permanent architecture. If it is needed temporarily to unblock the migration, document why and create a follow-up task to remove it.\n\n---\n\n## 4. Upgrade Spring Security / Authorization Server\n\nSpring Authorization Server moved into Spring Security 7.\n\nThe project currently pins:\n\n```xml\n<spring-authorization-server.version>1.5.8</spring-authorization-server.version>\n```\n\nand:\n\n```xml\norg.springframework.security:spring-security-oauth2-authorization-server\n```\n\nMigrate this to the Spring Security 7.x generation managed by the Spring Boot 4.1.x dependency management where possible.\n\nRequirements:\n\n- remove unnecessary explicit Spring Security / Authorization Server version overrides;\n- adapt any package relocations or removed/deprecated Security APIs;\n- preserve OAuth2/OIDC behavior;\n- verify PKCE/token flows, resource server JWT validation, OAuth client flows, and authorization server endpoints;\n- run existing security integration tests and add regression coverage where the current suite is insufficient.\n\n---\n\n## 5. Upgrade Spring AI to 2.0.x\n\nUpgrade:\n\n```xml\n<spring-ai.version>1.1.7</spring-ai.version>\n```\n\nto the latest stable Spring AI `2.0.x` release available when implementation starts. At the time of this issue, that is `2.0.1`.\n\nSpring AI 2.0 is specifically aligned with Spring Boot 4.0/4.1 and includes breaking changes.\n\nReview and migrate:\n\n- MCP annotations/package changes;\n- MCP WebMVC transport/artifact changes;\n- Streamable HTTP configuration;\n- Jackson 3 integration;\n- `ChatClient` / `ChatModel` APIs used by the application;\n- tool registration/tool calling APIs;\n- any custom Spring AI configuration properties;\n- metrics/observation integration.\n\nThe existing MCP server must keep working after the upgrade.\n\nIf the Ask ApplyWell assistant work from #81 / #82 is merged before this migration, its chat streaming, tool calling, provider configuration, and tests must also be included in the migration/regression scope.\n\n---\n\n## 6. Upgrade springdoc-openapi for Boot 4\n\nSpring Boot 4 requires springdoc-openapi `3.x`.\n\nUpgrade from:\n\n```text\nspringdoc-openapi-starter-webmvc-ui 2.8.9\n```\n\nto the latest stable `3.1.x` (or newer stable Boot-4-compatible release available at implementation time).\n\nVerify:\n\n- `/v3/api-docs`\n- Swagger UI\n- OAuth2/OpenID security schemes\n- controller/schema generation\n- native/AOT compatibility if applicable\n\n---\n\n## 7. Migrate Resilience4j to the Boot 4 integration\n\nReplace:\n\n```text\nresilience4j-spring-boot3\n```\n\nwith:\n\n```text\nresilience4j-spring-boot4\n```\n\nusing the latest stable compatible Resilience4j release.\n\nReview existing circuit breaker/retry/time limiter configuration and Actuator/Micrometer integration because Boot 4 changed parts of its actuator and auto-configuration structure.\n\nDo not simply keep the Boot 3 integration artifact on a Boot 4 application.\n\n---\n\n## 8. Refresh all other explicitly pinned dependencies\n\nRun a dependency update audit and review every direct dependency that is explicitly versioned in the project.\n\nSuggested tooling:\n\n```bash\n./mvnw versions:display-dependency-updates\n./mvnw versions:display-plugin-updates\n./mvnw dependency:tree\n```\n\nReview and update, where a stable compatible release exists:\n\n- JJWT\n- Testcontainers\n- Rest Assured\n- GraalVM Native Build Tools/plugin configuration\n- Yubico WebAuthn\n- logstash-logback-encoder\n- datafaker\n- jsoup\n- jtokkit\n- Google Drive SDK\n- Google Docs SDK\n- Google Auth Library\n- PDFBox\n- Apache POI\n- Maven plugins with explicit versions/configuration\n\n### Dependency-management rule\n\nPrefer this order:\n\n1. Spring Boot dependency management/BOM\n2. Spring AI BOM\n3. official library BOM when justified\n4. explicit version only when the dependency is not managed or a documented override is required\n\nAvoid pinning versions already managed correctly by Spring Boot unless there is a concrete compatibility/security reason.\n\nDo not blindly force every library onto a new major version. For unrelated third-party libraries, prefer the newest stable release that is compatible with the Boot 4 migration and existing code.\n\n---\n\n## 9. Check configuration-property changes\n\nReview `application*.yml/properties` and environment-variable mappings for removed, renamed, or behavior-changing properties across:\n\n- Spring Boot 4\n- Spring Security 7\n- Spring AI 2\n- Jackson 3\n- Actuator/Micrometer/OpenTelemetry\n- Flyway\n- mail/web/server configuration\n\nThe application must start without unknown/obsolete configuration silently remaining in deployment files.\n\n---\n\n## 10. Preserve observability\n\nVerify the existing observability stack after the migration:\n\n- Spring Boot Actuator\n- Micrometer\n- Prometheus registry\n- Micrometer Tracing → OpenTelemetry bridge\n- OTLP exporter\n- health/info endpoints\n- existing custom metrics\n\nBoot 4 modularization and dependency upgrades must not silently remove metrics or actuator endpoints currently used by deployment/Grafana.\n\n---\n\n# Testing and verification\n\nThe upgrade is complete only when the behavior is verified, not merely when Maven becomes emotionally satisfied.\n\nRequired checks:\n\n```bash\n./mvnw clean verify\n./mvnw dependency:tree\n```\n\nAdditionally verify:\n\n- application starts successfully using the normal development configuration;\n- Flyway migrations execute successfully against MariaDB;\n- JPA repositories and persistence tests pass;\n- authentication and authorization flows pass;\n- OAuth2/OIDC/PKCE behavior remains valid;\n- MCP server initializes and its resources/tools remain discoverable;\n- OpenAPI/Swagger endpoints work;\n- Actuator/Prometheus/OTel integration still works;\n- Testcontainers integration tests pass;\n- AOT processing still succeeds;\n- native-image configuration is reviewed and tested if the repository currently treats native build support as a maintained capability;\n- no external paid AI provider is required for CI tests.\n\nUse test doubles/stubs for Spring AI provider tests where possible.\n\n---\n\n# Acceptance criteria\n\n- [ ] Project is migrated from Spring Boot `3.5.0` to the latest stable `4.1.x` release.\n- [ ] No milestone/RC Spring Boot release is used.\n- [ ] Java 21 remains supported and the project compiles/runs on it.\n- [ ] Boot 4 starter/module changes are applied instead of relying permanently on `*-classic` compatibility starters.\n- [ ] Jackson 3 is the default JSON stack and application serialization tests pass.\n- [ ] Spring Security is on the Boot 4 / Security 7 generation.\n- [ ] The old standalone Spring Authorization Server `1.5.x` version pin is removed/migrated appropriately.\n- [ ] Spring AI is upgraded from `1.1.7` to the latest stable `2.0.x` release.\n- [ ] MCP server functionality continues to work with Spring AI 2.x.\n- [ ] springdoc-openapi is upgraded to a Boot-4-compatible `3.x` release.\n- [ ] Resilience4j uses the Spring Boot 4 integration artifact.\n- [ ] All explicitly pinned direct dependencies/plugins are audited and updated where a stable compatible upgrade exists.\n- [ ] Unnecessary explicit versions already managed by Boot/Spring AI are removed.\n- [ ] Configuration properties are audited for Boot 4 / Security 7 / AI 2 changes.\n- [ ] Existing OAuth2/OIDC/security behavior remains functional.\n- [ ] Existing Actuator, Prometheus and OpenTelemetry observability remains functional.\n- [ ] `./mvnw clean verify` passes.\n- [ ] Dependency tree contains no known accidental duplicate Spring/Jackson generations introduced by the migration.\n- [ ] CI remains green and does not require external AI credentials.\n- [ ] README/configuration documentation is updated when dependency/configuration changes affect local development or deployment.\n\n---\n\n# Out of scope\n\n- Spring Boot `4.2.x` milestones/RCs.\n- Java version upgrade solely for modernization; Java 21 remains the project baseline for this task.\n- Rewriting application architecture unrelated to dependency compatibility.\n- Replacing MariaDB/JPA/Flyway.\n- Replacing Spring Security with another auth stack.\n- Introducing new AI features solely because Spring AI 2 exposes them.\n- Large refactors that are not required to make the supported Boot 4 stack work correctly.\n\nIf a breaking dependency upgrade exposes a genuine design problem, keep the minimum compatibility fix in this issue and open a separate refactor issue for broader cleanup.\n\n---\n\n# References\n\n- Spring Boot 4 migration guide: https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-4.0-Migration-Guide\n- Spring Boot 4.1.1 release: https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now/\n- Spring AI 2.0 reference / Boot compatibility: https://docs.spring.io/spring-ai/reference/getting-started.html\n- Spring AI upgrade notes: https://docs.spring.io/spring-ai/reference/upgrade-notes.html\n- Spring Authorization Server migration to Spring Security 7: https://spring.io/blog/2025/09/11/spring-authorization-server-moving-to-spring-security-7-0/\n- Springdoc Boot 4 support: https://github.com/springdoc/springdoc-openapi\n- Resilience4j Boot 4 module: https://github.com/resilience4j/resilience4j\n",
+          "body": "## Summary\n\nAdd **AV1 as an optional video codec** for FrameRelay when **both publisher and viewer can support it**, while keeping **H.264 as the default/fallback codec**.\n\nThe goal is to improve screen-sharing quality and bitrate efficiency on capable hardware without sacrificing compatibility or destabilizing the current H.264 pipeline.\n\n## Requirements\n\n- Keep **H.264 as the mandatory/default fallback**.\n- Detect AV1 capability independently on both peers.\n- AV1 must only be selected when **both sides advertise compatible AV1 support**.\n- Prefer **hardware AV1 encode/decode** when available.\n- Do not select AV1 when doing so would require unsupported or impractical software encode/decode.\n- Fall back cleanly to H.264 if:\n  - either peer does not support AV1;\n  - AV1 hardware acceleration is unavailable according to the final capability policy;\n  - AV1 encoder/decoder initialization fails;\n  - negotiation cannot establish a mutually supported AV1 configuration.\n- Codec selection must be explicit and observable in Diagnostics/logs.\n- Existing H.264 behavior must remain functional and regression-tested.\n\n## Proposed negotiation\n\n```text\nPublisher capabilities\n        +\nViewer capabilities\n        |\n        v\nAV1 supported on both sides?\n        |\n   +----+----+\n   |         |\n  yes        no\n   |         |\n   v         v\n  AV1      H.264\n   |\nAV1 init failure?\n   |\n  yes\n   |\n   v\n H.264\n```\n\n## Architecture\n\nIntroduce/extend a codec abstraction instead of coupling the media pipeline directly to H.264-specific implementations.\n\nExample direction:\n\n```text\nIVideoEncoder / IVideoDecoder\n├── MediaFoundationH264Encoder\n├── MediaFoundationH264Decoder\n├── MediaFoundationAv1Encoder\n└── MediaFoundationAv1Decoder\n```\n\nExact naming/API can follow the existing architecture.\n\nCodec negotiation should remain separate from capture, transport, and rendering concerns.\n\n## Capability detection\n\nDetermine at runtime:\n\n- OS support.\n- Media Foundation codec availability.\n- Hardware encoder availability.\n- Hardware decoder availability.\n- WebRTC/RTP codec capability exposed by the current WebRTC stack.\n- Relevant AV1 profile/level constraints required for interoperability.\n\nDo not infer support solely from the GPU model.\n\n## Diagnostics / observability\n\nExpose at least:\n\n- Local supported codecs.\n- Remote supported codecs.\n- Negotiated codec.\n- Encoder implementation.\n- Decoder implementation.\n- Hardware/software path.\n- AV1 negotiation fallback reason.\n- Encoder/decoder initialization failures.\n\nExample:\n\n```text\nVideo codec:\n  negotiated: AV1\n  encoder: Media Foundation AV1 Hardware\n  decoder: Media Foundation AV1 Hardware\n  fallback: none\n```\n\nor:\n\n```text\nVideo codec:\n  negotiated: H.264\n  AV1: rejected\n  reason: remote-av1-decoder-unavailable\n```\n\n## Performance expectations\n\nAV1 support must not:\n\n- block the WGC capture callback;\n- introduce unbounded frame queues;\n- regress the latest-frame-wins behavior;\n- interfere with congestion control / bitrate adaptation;\n- increase end-to-end latency beyond acceptable interactive screen-sharing limits.\n\nMeasure at least:\n\n- encode time;\n- decode time;\n- bitrate;\n- dropped frames;\n- end-to-end/video pipeline latency where available.\n\n## Acceptance criteria\n\n- [ ] H.264 remains the reliable fallback.\n- [ ] AV1 capability is detected at runtime on publisher and viewer.\n- [ ] AV1 is negotiated only when both peers satisfy the capability requirements.\n- [ ] Hardware AV1 encode/decode is used when supported by the chosen policy.\n- [ ] Failed AV1 initialization falls back to H.264 without terminating the session.\n- [ ] Diagnostics clearly show codec capabilities, negotiated codec, implementation and fallback reason.\n- [ ] Automated tests cover AV1↔AV1 negotiation.\n- [ ] Automated tests cover AV1-capable publisher + H.264-only viewer.\n- [ ] Automated tests cover H.264-only publisher + AV1-capable viewer.\n- [ ] Automated tests cover AV1 initialization failure and H.264 fallback.\n- [ ] Existing H.264 tests remain green.\n- [ ] Performance measurements compare AV1 and H.264 under equivalent screen-sharing workloads.\n\n## Non-goals\n\n- Removing H.264.\n- Making AV1 mandatory.\n- Adding HEVC/H.265 as part of this issue.\n- Rewriting the existing capture pipeline solely for AV1.\n- Adding Linux support as part of this issue.\n\n## Priority\n\n**P2 / post-stability enhancement.**\n\nImplement after the current H.264/Media Foundation pipeline is considered stable enough that codec work can be benchmarked without masking existing pipeline bugs.",
           "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83/reactions",
+            "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/22/reactions",
             "total_count": 0,
             "+1": 0,
             "-1": 0,
@@ -3090,7 +2964,7 @@
             "rocket": 0,
             "eyes": 0
           },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/83/timeline",
+          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/issues/22/timeline",
           "performed_via_github_app": {
             "id": 1144995,
             "client_id": "Iv23liVemv8A9if9v0F2",
@@ -3149,20 +3023,86 @@
               "sub_issues"
             ]
           },
-          "state_reason": "completed",
+          "state_reason": null,
           "pinned_comment": null
-        }
+        },
+        "assignee": {
+          "login": "vitorhugo-dotnet",
+          "id": 65777252,
+          "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/vitorhugo-dotnet",
+          "html_url": "https://github.com/vitorhugo-dotnet",
+          "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+          "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+          "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+          "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+          "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+          "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "assignees": [
+          {
+            "login": "vitorhugo-dotnet",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-dotnet",
+            "html_url": "https://github.com/vitorhugo-dotnet",
+            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ]
       },
       "public": true,
-      "created_at": "2026-09-27T16:45:25Z"
+      "created_at": "2026-09-29T01:28:55Z"
+    },
+    {
+      "id": "22428207070",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1393944457,
+        "name": "vitorhugo-dotnet/MediaRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/MediaRelay"
+      },
+      "payload": {
+        "ref": "main",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/main",
+        "master_branch": "main",
+        "description": "Self-hosted media upload relay with Discord publishing",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-28T23:09:38Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-09-29",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-30",
       "count": 0,
@@ -4925,12 +4865,12 @@
     },
     {
       "date": "2026-09-17",
-      "count": 21,
-      "level": 4
+      "count": 10,
+      "level": 3
     },
     {
       "date": "2026-09-18",
-      "count": 62,
+      "count": 61,
       "level": 4
     },
     {
@@ -4980,9 +4920,14 @@
     },
     {
       "date": "2026-09-28",
-      "count": 0,
-      "level": 0
+      "count": 3,
+      "level": 2
+    },
+    {
+      "date": "2026-09-29",
+      "count": 9,
+      "level": 3
     }
   ],
-  "generatedAt": "2026-09-28T06:11:34.383Z"
+  "generatedAt": "2026-09-29T06:28:40.527Z"
 }
