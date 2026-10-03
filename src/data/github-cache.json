@@ -36,131 +36,6 @@
   },
   "repos": [
     {
-      "id": 1400509772,
-      "node_id": "R_kgDOU3oVTA",
-      "name": "LegacyLens",
-      "full_name": "vitorhugo-dotnet/LegacyLens",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/LegacyLens",
-      "description": "Local code archaeologist for legacy systems, tracing interactions across JSF/PrimeFaces, Java, JavaScript, SQL, and source code.",
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/deployments",
-      "created_at": "2026-10-01T18:00:49Z",
-      "updated_at": "2026-10-02T05:01:07Z",
-      "pushed_at": "2026-10-02T05:01:03Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/LegacyLens.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/LegacyLens.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/LegacyLens.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/LegacyLens",
-      "homepage": null,
-      "size": 364,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Go",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 1,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [
-        "code-analysis",
-        "developer-tools",
-        "java",
-        "jsf",
-        "legacy-systems",
-        "primefaces",
-        "program-analysis",
-        "static-analysis"
-      ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 1,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
       "id": 338413376,
       "node_id": "MDEwOlJlcG9zaXRvcnkzMzg0MTMzNzY=",
       "name": "vitorhugo-dotnet",
@@ -229,7 +104,7 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/vitorhugo-dotnet/deployments",
       "created_at": "2021-02-12T19:28:48Z",
       "updated_at": "2026-08-19T00:22:12Z",
-      "pushed_at": "2026-10-02T03:32:19Z",
+      "pushed_at": "2026-10-03T03:16:26Z",
       "git_url": "git://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/vitorhugo-dotnet.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
@@ -263,6 +138,357 @@
       "visibility": "public",
       "forks": 1,
       "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1389846460,
+      "node_id": "R_kgDOUtdfvA",
+      "name": "simkl-mcp",
+      "full_name": "vitorhugo-dotnet/simkl-mcp",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/simkl-mcp",
+      "description": "MCP for Simkl - TV/Movies Tracker",
+      "fork": true,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/deployments",
+      "created_at": "2026-09-26T22:35:38Z",
+      "updated_at": "2026-10-02T12:51:01Z",
+      "pushed_at": "2026-10-02T22:07:06Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/simkl-mcp.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/simkl-mcp.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/simkl-mcp.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/simkl-mcp",
+      "homepage": "https://simkl-mcp.hugoalves-java.workers.dev/mcp",
+      "size": 352,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": false,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1400509772,
+      "node_id": "R_kgDOU3oVTA",
+      "name": "LegacyLens",
+      "full_name": "vitorhugo-dotnet/LegacyLens",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/LegacyLens",
+      "description": "Local code archaeologist for legacy systems, tracing interactions across JSF/PrimeFaces, Java, JavaScript, SQL, and source code.",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens/deployments",
+      "created_at": "2026-10-01T18:00:49Z",
+      "updated_at": "2026-10-02T12:12:03Z",
+      "pushed_at": "2026-10-02T12:11:59Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/LegacyLens.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/LegacyLens.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/LegacyLens.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/LegacyLens",
+      "homepage": null,
+      "size": 395,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Go",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "code-analysis",
+        "developer-tools",
+        "java",
+        "jsf",
+        "legacy-systems",
+        "primefaces",
+        "program-analysis",
+        "static-analysis"
+      ],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1189545274,
+      "node_id": "R_kgDORucFOg",
+      "name": "portifolio",
+      "full_name": "vitorhugo-dotnet/portifolio",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
+      "created_at": "2026-03-23T12:34:58Z",
+      "updated_at": "2026-08-18T03:48:49Z",
+      "pushed_at": "2026-10-02T07:34:08Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "homepage": "http://hugodotnet.dev/",
+      "size": 914,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -893,116 +1119,6 @@
         "websocket",
         "windows"
       ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 1,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1189545274,
-      "node_id": "R_kgDORucFOg",
-      "name": "portifolio",
-      "full_name": "vitorhugo-dotnet/portifolio",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
-      "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-08-18T03:48:49Z",
-      "pushed_at": "2026-10-01T07:51:12Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "homepage": "http://hugodotnet.dev/",
-      "size": 909,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 1,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
       "visibility": "public",
       "forks": 0,
       "open_issues": 1,
@@ -1652,122 +1768,6 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 1,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1389846460,
-      "node_id": "R_kgDOUtdfvA",
-      "name": "simkl-mcp",
-      "full_name": "vitorhugo-dotnet/simkl-mcp",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/simkl-mcp",
-      "description": "MCP for Simkl - TV/Movies Tracker",
-      "fork": true,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp/deployments",
-      "created_at": "2026-09-26T22:35:38Z",
-      "updated_at": "2026-09-26T23:18:28Z",
-      "pushed_at": "2026-09-27T00:58:37Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/simkl-mcp.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/simkl-mcp.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/simkl-mcp.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/simkl-mcp",
-      "homepage": "https://mcp.simkl.srev.in",
-      "size": 144,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": false,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2559,8 +2559,8 @@
   ],
   "events": [
     {
-      "id": "22760622152",
-      "type": "PushEvent",
+      "id": "22845192817",
+      "type": "DeleteEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2570,122 +2570,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1386001977,
-        "name": "vitorhugo-dotnet/go_discord_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay"
+        "id": 1389846460,
+        "name": "vitorhugo-dotnet/simkl-mcp",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp"
       },
       "payload": {
-        "repository_id": 1386001977,
-        "push_id": 45176084236,
-        "ref": "refs/heads/main",
-        "head": "dc00a4f08dff9b6c7dc4b0f5315d901b788bc9dd",
-        "before": "1044cd3c6019a4b59f9b30f58f8b47bc9d095870"
-      },
-      "public": true,
-      "created_at": "2026-10-01T18:18:41Z"
-    },
-    {
-      "id": "16251596927",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1123428347,
-        "name": "srevinsaju/simkl-mcp",
-        "url": "https://api.github.com/repos/srevinsaju/simkl-mcp"
-      },
-      "payload": {
-        "action": "merged",
-        "number": 3,
-        "pull_request": {
-          "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/3",
-          "id": 4650289244,
-          "number": 3,
-          "head": {
-            "ref": "docs/streamable-http",
-            "sha": "15dca09580579693fcae6bdb6ee630a4014c6f89",
-            "repo": {
-              "id": 1389846460,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp",
-              "name": "simkl-mcp"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "c8b261205ba9e5110823244967fa2807277fa563",
-            "repo": {
-              "id": 1123428347,
-              "url": "https://api.github.com/repos/srevinsaju/simkl-mcp",
-              "name": "simkl-mcp"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-10-02T05:09:09Z"
-    },
-    {
-      "id": "22759130913",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1400509772,
-        "name": "vitorhugo-dotnet/LegacyLens",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens"
-      },
-      "payload": {
-        "repository_id": 1400509772,
-        "push_id": 45219347345,
-        "ref": "refs/heads/main",
-        "head": "dd5ee073c1fe48324b7237b6c4c0bf079f25edd2",
-        "before": "2519ce49adca7273e8fbf8196205d54bdeb9d6a1"
-      },
-      "public": true,
-      "created_at": "2026-10-02T05:01:03Z"
-    },
-    {
-      "id": "22744094580",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1400875753,
-        "name": "vitorhugo-dotnet/memoria",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/memoria"
-      },
-      "payload": {
-        "ref": "main",
+        "ref": "codex/pr1-review-sync",
         "ref_type": "branch",
-        "full_ref": "refs/heads/main",
-        "master_branch": "main",
-        "description": null,
+        "full_ref": "refs/heads/codex/pr1-review-sync",
         "pusher_type": "user"
       },
       "public": true,
-      "created_at": "2026-10-02T00:56:17Z"
+      "created_at": "2026-10-02T12:52:44Z"
     },
     {
-      "id": "16239554009",
-      "type": "PullRequestEvent",
+      "id": "22845138392",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2695,42 +2595,100 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+        "id": 1389846460,
+        "name": "vitorhugo-dotnet/simkl-mcp",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp"
       },
       "payload": {
-        "action": "merged",
-        "number": 47,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/47",
-          "id": 4710807867,
-          "number": 47,
-          "head": {
-            "ref": "codex/fix-session-summary",
-            "sha": "3df0f10ec889079e2db1917b1dcd37cea747559a",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "5f49f4facfd5222658d0797c09949f1f14122fc5",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          }
-        }
+        "repository_id": 1389846460,
+        "push_id": 45252368618,
+        "ref": "refs/heads/fix/simkl-auth-v2",
+        "head": "da27f8fc6809db05396874c00ce42ede41d3f970",
+        "before": "1eb10ca7a0c0880c8b578881afb59aedf74755ef"
       },
       "public": true,
-      "created_at": "2026-10-02T00:19:40Z"
+      "created_at": "2026-10-02T12:51:57Z"
     },
     {
-      "id": "22741815106",
+      "id": "22845068703",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1389846460,
+        "name": "vitorhugo-dotnet/simkl-mcp",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp"
+      },
+      "payload": {
+        "repository_id": 1389846460,
+        "push_id": 45252284633,
+        "ref": "refs/heads/main",
+        "head": "fc57bb1c3b5a1fa989f432ae4236c821e379ef63",
+        "before": "941106b225535ea635b57affb51abd5506f4981c"
+      },
+      "public": true,
+      "created_at": "2026-10-02T12:50:55Z"
+    },
+    {
+      "id": "22843348571",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1389846460,
+        "name": "vitorhugo-dotnet/simkl-mcp",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp"
+      },
+      "payload": {
+        "repository_id": 1389846460,
+        "push_id": 45255606483,
+        "ref": "refs/heads/fix/simkl-auth-v2",
+        "head": "9bc582a2f23283a4758e82fd8c3bc35910e54f29",
+        "before": "da27f8fc6809db05396874c00ce42ede41d3f970"
+      },
+      "public": true,
+      "created_at": "2026-10-02T13:29:46Z"
+    },
+    {
+      "id": "22838286755",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1389846460,
+        "name": "vitorhugo-dotnet/simkl-mcp",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp"
+      },
+      "payload": {
+        "repository_id": 1389846460,
+        "push_id": 45246453816,
+        "ref": "refs/heads/codex/pr1-review-sync",
+        "head": "9e8bac0cd274124bbf7c897d65003ddd1816e50d",
+        "before": "4b9cb021894ed3397320b2f41550830abf271be2"
+      },
+      "public": true,
+      "created_at": "2026-10-02T11:37:36Z"
+    },
+    {
+      "id": "22835376879",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2747,17 +2705,17 @@
       },
       "payload": {
         "repository_id": 1344024708,
-        "push_id": 45203161188,
-        "ref": "refs/heads/main",
-        "head": "a49873f11afef27adb70423fc2462f5a1c5a4ce1",
-        "before": "5f49f4facfd5222658d0797c09949f1f14122fc5"
+        "push_id": 45140113248,
+        "ref": "refs/heads/codex/discord-websocket-media",
+        "head": "144ef1e913fae1ab97b8254e04720763266ffe5d",
+        "before": "91ca592fdea007c0836577b605027ddc234fa017"
       },
       "public": true,
-      "created_at": "2026-10-02T00:19:42Z"
+      "created_at": "2026-10-01T11:53:26Z"
     },
     {
-      "id": "22741776165",
-      "type": "DeleteEvent",
+      "id": "22835336081",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2767,22 +2725,23 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1386001977,
-        "name": "vitorhugo-dotnet/go_discord_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay"
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
       },
       "payload": {
-        "ref": "codex/activity-player-controls",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/codex/activity-player-controls",
-        "pusher_type": "user"
+        "repository_id": 1344024708,
+        "push_id": 45140069505,
+        "ref": "refs/heads/codex/discord-websocket-media",
+        "head": "4d0269408af62827e026414ef8fff22a766a0fa2",
+        "before": "915cba3d9d12440b0485111692dff6726912e598"
       },
       "public": true,
-      "created_at": "2026-10-02T00:19:04Z"
+      "created_at": "2026-10-01T11:52:54Z"
     },
     {
-      "id": "16239525073",
-      "type": "PullRequestEvent",
+      "id": "16314591600",
+      "type": "PullRequestReviewCommentEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2792,43 +2751,105 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1386001977,
-        "name": "vitorhugo-dotnet/go_discord_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay"
+        "id": 1123428347,
+        "name": "srevinsaju/simkl-mcp",
+        "url": "https://api.github.com/repos/srevinsaju/simkl-mcp"
       },
       "payload": {
-        "action": "merged",
-        "number": 12,
+        "action": "created",
+        "comment": {
+          "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/comments/4170440190",
+          "pull_request_review_id": 5397559426,
+          "id": 4170440190,
+          "node_id": "PRRC_kwDOQvYn-874k93-",
+          "diff_hunk": "@@ -6,7 +6,7 @@ compatibility_flags = [\"nodejs_compat\"]\n # kv namespace for oauth provider storage\n [[kv_namespaces]]\n binding = \"OAUTH_KV\"\n-id = \"8a4b8130bb5c4cb8af62254d3745dcd7\"\n+id = \"dd708cbd426048878d4032bb1b752e44\"",
+          "path": "wrangler.toml",
+          "commit_id": "9ef385cbfbb9870041ff1438b539c096a71847cf",
+          "original_commit_id": "9ef385cbfbb9870041ff1438b539c096a71847cf",
+          "user": {
+            "login": "vitorhugo-dotnet",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-dotnet",
+            "html_url": "https://github.com/vitorhugo-dotnet",
+            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "body": "Yes, sorry. That was I using at my namespace, retore at 8ae1e24f2cc65b3a6c9eb4fe231f77d7501ca281",
+          "created_at": "2026-10-02T22:45:25Z",
+          "updated_at": "2026-10-02T22:45:25Z",
+          "html_url": "https://github.com/srevinsaju/simkl-mcp/pull/1#discussion_r4170440190",
+          "pull_request_url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1",
+          "_links": {
+            "self": {
+              "href": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/comments/4170440190"
+            },
+            "html": {
+              "href": "https://github.com/srevinsaju/simkl-mcp/pull/1#discussion_r4170440190"
+            },
+            "pull_request": {
+              "href": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1"
+            }
+          },
+          "reactions": {
+            "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/comments/4170440190/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "in_reply_to_id": 4168147263,
+          "original_position": 5,
+          "position": 1,
+          "subject_type": "line"
+        },
         "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay/pulls/12",
-          "id": 4710823616,
-          "number": 12,
+          "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1",
+          "id": 4650281880,
+          "number": 1,
           "head": {
-            "ref": "codex/activity-player-controls",
-            "sha": "f6d6b358f05d721af793d762662414390b347740",
+            "ref": "fix/simkl-auth-v2",
+            "sha": "8ae1e24f2cc65b3a6c9eb4fe231f77d7501ca281",
             "repo": {
-              "id": 1386001977,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay",
-              "name": "go_discord_FrameRelay"
+              "id": 1389846460,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp",
+              "name": "simkl-mcp"
             }
           },
           "base": {
             "ref": "main",
-            "sha": "724aaae835a05b5f5cfda1156ca8d8bdd07f3141",
+            "sha": "381cddf5d8180708c5d63edf19af1d834e25e12c",
             "repo": {
-              "id": 1386001977,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay",
-              "name": "go_discord_FrameRelay"
+              "id": 1123428347,
+              "url": "https://api.github.com/repos/srevinsaju/simkl-mcp",
+              "name": "simkl-mcp"
             }
           }
         }
       },
       "public": true,
-      "created_at": "2026-10-02T00:19:00Z"
+      "created_at": "2026-10-02T22:45:25Z"
     },
     {
-      "id": "22740920144",
-      "type": "PushEvent",
+      "id": "16314591518",
+      "type": "PullRequestReviewEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2838,23 +2859,82 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1400509772,
-        "name": "vitorhugo-dotnet/LegacyLens",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/LegacyLens"
+        "id": 1123428347,
+        "name": "srevinsaju/simkl-mcp",
+        "url": "https://api.github.com/repos/srevinsaju/simkl-mcp"
       },
       "payload": {
-        "repository_id": 1400509772,
-        "push_id": 45202327486,
-        "ref": "refs/heads/main",
-        "head": "55f454cc3b73a6fa355b44b794a24cdb532c179e",
-        "before": "b30c68904dfd084cf4fe34fe8d32987e3487828d"
+        "review": {
+          "id": 5397559426,
+          "node_id": "PRR_kwDOQvYn-88AAAABQbg4gg",
+          "user": {
+            "login": "vitorhugo-dotnet",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-dotnet",
+            "html_url": "https://github.com/vitorhugo-dotnet",
+            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "body": null,
+          "commit_id": "8ae1e24f2cc65b3a6c9eb4fe231f77d7501ca281",
+          "state": "commented",
+          "html_url": "https://github.com/srevinsaju/simkl-mcp/pull/1#pullrequestreview-5397559426",
+          "pull_request_url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1",
+          "_links": {
+            "html": {
+              "href": "https://github.com/srevinsaju/simkl-mcp/pull/1#pullrequestreview-5397559426"
+            },
+            "pull_request": {
+              "href": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1"
+            }
+          },
+          "submitted_at": "2026-10-02T22:45:25Z",
+          "updated_at": "2026-10-02T22:45:25Z"
+        },
+        "pull_request": {
+          "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1",
+          "id": 4650281880,
+          "number": 1,
+          "head": {
+            "ref": "fix/simkl-auth-v2",
+            "sha": "8ae1e24f2cc65b3a6c9eb4fe231f77d7501ca281",
+            "repo": {
+              "id": 1389846460,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp",
+              "name": "simkl-mcp"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "381cddf5d8180708c5d63edf19af1d834e25e12c",
+            "repo": {
+              "id": 1123428347,
+              "url": "https://api.github.com/repos/srevinsaju/simkl-mcp",
+              "name": "simkl-mcp"
+            }
+          }
+        },
+        "action": "created"
       },
       "public": true,
-      "created_at": "2026-10-02T00:05:23Z"
+      "created_at": "2026-10-02T22:45:26Z"
     },
     {
-      "id": "22738988595",
-      "type": "PushEvent",
+      "id": "16314524735",
+      "type": "PullRequestReviewCommentEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -2864,27 +2944,104 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1386001977,
-        "name": "vitorhugo-dotnet/go_discord_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/go_discord_FrameRelay"
+        "id": 1123428347,
+        "name": "srevinsaju/simkl-mcp",
+        "url": "https://api.github.com/repos/srevinsaju/simkl-mcp"
       },
       "payload": {
-        "repository_id": 1386001977,
-        "push_id": 45200528239,
-        "ref": "refs/heads/codex/activity-player-controls",
-        "head": "f6d6b358f05d721af793d762662414390b347740",
-        "before": "cdd88a80c04d97974169d142984c7eeb921305da"
+        "action": "created",
+        "comment": {
+          "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/comments/4170432882",
+          "pull_request_review_id": 5397549193,
+          "id": 4170432882,
+          "node_id": "PRRC_kwDOQvYn-874k8Fy",
+          "diff_hunk": "",
+          "path": "worker-configuration.d.ts",
+          "commit_id": "8ae1e24f2cc65b3a6c9eb4fe231f77d7501ca281",
+          "original_commit_id": "9bc582a2f23283a4758e82fd8c3bc35910e54f29",
+          "user": {
+            "login": "vitorhugo-dotnet",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-dotnet",
+            "html_url": "https://github.com/vitorhugo-dotnet",
+            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "body": "I didn't know that, thanks! Fix at 9ef385cbfbb9870041ff1438b539c096a71847cf",
+          "created_at": "2026-10-02T22:43:56Z",
+          "updated_at": "2026-10-02T22:43:56Z",
+          "html_url": "https://github.com/srevinsaju/simkl-mcp/pull/1#discussion_r4170432882",
+          "pull_request_url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1",
+          "_links": {
+            "self": {
+              "href": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/comments/4170432882"
+            },
+            "html": {
+              "href": "https://github.com/srevinsaju/simkl-mcp/pull/1#discussion_r4170432882"
+            },
+            "pull_request": {
+              "href": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1"
+            }
+          },
+          "reactions": {
+            "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/comments/4170432882/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "in_reply_to_id": 4167847972,
+          "original_position": 1,
+          "position": 1,
+          "subject_type": "file"
+        },
+        "pull_request": {
+          "url": "https://api.github.com/repos/srevinsaju/simkl-mcp/pulls/1",
+          "id": 4650281880,
+          "number": 1,
+          "head": {
+            "ref": "fix/simkl-auth-v2",
+            "sha": "8ae1e24f2cc65b3a6c9eb4fe231f77d7501ca281",
+            "repo": {
+              "id": 1389846460,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/simkl-mcp",
+              "name": "simkl-mcp"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "381cddf5d8180708c5d63edf19af1d834e25e12c",
+            "repo": {
+              "id": 1123428347,
+              "url": "https://api.github.com/repos/srevinsaju/simkl-mcp",
+              "name": "simkl-mcp"
+            }
+          }
+        }
       },
       "public": true,
-      "created_at": "2026-10-01T23:34:48Z"
+      "created_at": "2026-10-02T22:43:56Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-10-03",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-04",
       "count": 0,
@@ -4662,12 +4819,12 @@
     },
     {
       "date": "2026-09-24",
-      "count": 24,
-      "level": 4
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-25",
-      "count": 40,
+      "count": 20,
       "level": 4
     },
     {
@@ -4692,19 +4849,24 @@
     },
     {
       "date": "2026-09-30",
-      "count": 40,
+      "count": 42,
       "level": 4
     },
     {
       "date": "2026-10-01",
-      "count": 51,
+      "count": 61,
       "level": 4
     },
     {
       "date": "2026-10-02",
-      "count": 8,
-      "level": 3
+      "count": 40,
+      "level": 4
+    },
+    {
+      "date": "2026-10-03",
+      "count": 0,
+      "level": 0
     }
   ],
-  "generatedAt": "2026-10-02T06:31:24.074Z"
+  "generatedAt": "2026-10-03T05:56:55.340Z"
 }
