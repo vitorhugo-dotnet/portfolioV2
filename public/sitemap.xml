@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vitorhugo-dotnet.github.io</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>http://hugodotnet.dev/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -76,8 +76,8 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://mcp.simkl.srev.in</loc>
-    <lastmod>2026-09-27</lastmod>
+    <loc>https://simkl-mcp.hugoalves-java.workers.dev/mcp</loc>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -97,7 +97,7 @@
   </url>
   <url>
     <loc>https://github.com/vitorhugo1207</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
